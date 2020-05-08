@@ -1,8 +1,10 @@
 # Daily app day #3: Tomat: Pomodoro Clock
 
-A pomodoro clock with a focus on a e s t h e t i c s. Features adjustable
+A pomodoro clock with a focus on a e s t h e t i c s. Features adjustable pomodoro and break durations.
 
-![Demo picture](./demo/demo.png)
+![Demo gif](./demo/demo.gif)
+
+(Demo gif shows the app in seconds mode instead of the normal minutes mode)
 
 Things I learned:
 
